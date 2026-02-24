@@ -7,4 +7,5 @@ https://github.com/user-attachments/assets/010ea883-cc19-49f2-bb75-c0f1b2796c72
 [The Robo Hand Guide.pdf](https://github.com/user-attachments/files/24964995/The.Robo.Hand.Guide.pdf)
 [The Robo Hand.docx](https://github.com/user-attachments/files/24965031/The.Robo.Hand.docx)
 https://github.com/user-attachments/assets/c757c754-342b-40bc-ab55-808b91926944 - Video
+[RoboHand A 3D-Printed Robotic Hand with Wireless Control.pdf](https://github.com/user-attachments/files/25520011/RoboHand.A.3D-Printed.Robotic.Hand.with.Wireless.Control.pdf)
 
